@@ -1,16 +1,3 @@
----
-title: "CST4070 - Comp. 3"
-output:
-  html_document:
-    df_print: paged
----
-
-**Student**:
-
-- Name:Chirag
-- Surname:Naik
-- Student number:M00933470
-- Campus:Dubai
 
 
 ## 1. Problem definition
