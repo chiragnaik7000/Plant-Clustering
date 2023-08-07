@@ -1,23 +1,5 @@
 
-
-## 1. Problem definition
-
-Problem Statement:
-The problem at hand is to identify the characteristics of plant species that contribute to their effectiveness in sequestering CO2 and reducing air pollution. This knowledge will then be utilized to develop guidelines for selecting suitable plants for urban greening projects, aiming to optimize CO2 absorption and air quality improvement.
-
-Who can it benefit ?
-
-Urban Planners and Environmental Agencies: The findings from this research will provide valuable insights to urban planners and environmental agencies in selecting appropriate plant species for urban greening projects. This will enable them to make informed decisions that enhance the effectiveness of green infrastructure in mitigating CO2 emissions and improving air quality.
-
-City Administrations: City administrations can benefit from this research by implementing strategies to incorporate the identified plant species into their urban greening initiatives. This can lead to enhanced carbon sequestration and improved air quality, resulting in a healthier and more sustainable urban environment.
-
-Researchers and Scientists: The research findings will contribute to the existing body of knowledge in the field of urban ecology and environmental science. Researchers and scientists can build upon this research to further explore the mechanisms behind CO2 absorption and air pollution reduction by plant species, leading to more targeted and effective greening strategies.
-
-General Public: The general public stands to benefit from this research through improved air quality in urban areas. The selection of suitable plant species for urban greening projects can help create cleaner and healthier living environments, promoting physical and mental well-being for residents.
-
-Ecosystem and Biodiversity: The identified plant species with high CO2 absorption and air pollution reduction capabilities can contribute to the preservation and restoration of ecosystems. By planting these species in urban areas, the overall biodiversity and ecological balance can be improved, leading to a more sustainable and resilient environment.
-
-State here your research question.
+ Research question.
 
 What are the characteristics of plant species within each cluster that make them effective in sequestering CO2 and reducing air pollution, and how can this knowledge be utilized to select suitable plants for urban greening projects?
 
